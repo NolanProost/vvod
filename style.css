@@ -1,0 +1,80 @@
+
+body{
+	background-image: url(ing/epn5jEdFzKo.jpg);
+	background-position: bottom;
+}
+
+
+h1{
+	float: left;
+	text-align: center;
+	text-shadow: 1px 1px 2px #696969;
+}
+h2{
+    position: absolute;
+    top: 50px;
+    left: 390px;
+    float: left;
+    text-align: center;
+    text-shadow: 1px 1px 2px #696969;
+
+}
+#vit{
+position: absolute;
+    left: 500px;
+}
+#vit2{
+
+position: absolute;
+    left: 575px;
+}
+#vvod{
+
+position: absolute;
+    top: 119px;
+    left: 500px;
+
+}
+button{
+    float: bottom;
+    background-color: #696969; 
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 5px 7px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #696969;
+    display: inline-block;
+    font-size: 15px;
+}
+#str{
+position: absolute;
+    top: 115px;
+    left: 845px;
+}
+#str1{
+position: absolute;
+    top: 115px;
+    left: 913px;
+    }
+td{
+position: absolute;
+    top: 155px;
+    left: 500px;
+    border: 2px solid black;
+       border-radius: 4px;
+       padding: 100px 228px;
+ }
+
+
+
+#tek{
+position: absolute;
+left: 500px;
+color: #696969;
+top: 300px;
+font-size: 100px;
+text-shadow: 2px 1px 2px black;
+
+
+}
